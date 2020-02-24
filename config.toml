@@ -1,0 +1,30 @@
+baseURL = "http://lelolabs.com/"
+languageCode = "pt-BR"
+title = "Lelolabs"
+theme = "hyde-hyde"
+
+[params]
+   themeColor = "theme-base-0d"
+   description = "Redes, Linux, Servidores, Automação, Xcode, iOS, macOS"
+
+[params.social]
+   twitter = "lelinhoprado"
+   github = "lelinho"
+   email = "lelinhoprado@gmail.com"
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "Portfolio"
+    identifier = "portfolio"
+    weight = 200
+    url = "/portfolio/"
+[[menu.main]]
+    name = "Sobre"
+    identifier = "sobre"
+    weight = 300
+    url = "/about/"
