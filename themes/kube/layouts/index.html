@@ -1,0 +1,48 @@
+{{ define "title"}} {{ .Site.Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+{{ define "main"}}
+
+
+<div id="main">
+  <div id="hero">
+    <h1>{{.Title}}</h1>
+    <p>{{.Description}}</p>
+  </div>
+  <div id="kube-features">
+    <div class="row gutters">
+      <div class="col col-4 item">
+        <figure>
+          <img alt="cTwittLike" height="72" src="{{ "/img/ctwittlike.jpg" | relURL }}" width="72">
+        </figure>
+        <h3>cTwittLike</h3>
+        <p>Veja o Twitter como outro usuário. App para iOS abandonado feito com base no site criado lá pra 2009 por mim, que tinha essa função. Chegou a sair no Mashable e Tecnoblog até.</p>
+      </div>
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Reminder Widget" height="72" src="{{ "/img/reminderwidget.png" | relURL }}" width="72">
+        </figure>
+        <h3>Reminder Widget</h3>
+        <p>App criado para suprir a falta de um widget decente para o iOS que tivesse os reminders do Evernote. Algumas pessoas usam até hoje.</p>
+      </div>
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Ganhei?" height="72" src="{{ "/img/logo_ganhei_png.png" | relURL }}" width="72">
+        </figure>
+        <h3>Ganhei?</h3>
+        <p>App para cadastrar jogos e verificar resultados da Mega-Sena. Como eu sei que nunca vou ganhar, que eu tente algum dinheiro vendendo app pra isso. Todo orgulhoso que saiu no MacMagazine.</p>
+      </div>
+    </div>
+    <div class="row gutters">
+      <div class="col col-4 item">
+        <h4>Redes</h4>
+        <p>Every element in kube is mobile-first and fully embraces latest and greatest tech.</p>
+      </div>
+      <div class="col col-4 item">
+        <h4>Servidores/Cloud</h4>
+        <p>Kube works in all modern browsers, both desktop and mobile, including latest Chrome, Firefox, Safari, Opera, IE and Edge.</p>
+      </div>
+  </div>
+</div>
+</div>
+{{ end }}
+{{ define "footer"}} {{ partial "footer" .}} {{end}}
