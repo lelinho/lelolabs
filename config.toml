@@ -1,30 +1,21 @@
-baseURL = "http://lelolabs.com/"
-languageCode = "pt-BR"
+baseURL = "/"
+languageCode = "pt-br"
 title = "Lelolabs"
-theme = "hyde-hyde"
+theme = "kube"
+description = "Redes, Linux, Servidores, Automação, Xcode, iOS, macOS"
+Paginate = 4
+[Params]
+  RSSLink = "/index.xml"
+  author = "Aurélio Carlos" # add your company name
+  github = "lelinho" # add your github profile name
+  twitter = "lelinhoprado" # add your twitter profile
+  email = "aureliocarlosps@gmail.com"
 
-[params]
-   themeColor = "theme-base-0d"
-   description = "Redes, Linux, Servidores, Automação, Xcode, iOS, macOS"
-
-[params.social]
-   twitter = "lelinhoprado"
-   github = "lelinho"
-   email = "lelinhoprado@gmail.com"
-
-## Main Menu
 [[menu.main]]
-    name = "Posts"
-    weight = 100
-    identifier = "posts"
-    url = "/posts/"
+    name = "Projetos"
+    weight = -100
+    url = "/docs/"
 [[menu.main]]
-    name = "Portfolio"
-    identifier = "portfolio"
-    weight = 200
-    url = "/portfolio/"
-[[menu.main]]
-    name = "Sobre"
-    identifier = "sobre"
-    weight = 300
-    url = "/about/"
+    name = "Blog"
+    weight = -100
+    url = "/blog/"
