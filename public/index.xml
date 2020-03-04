@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lelolabs</title>
+    <link>/</link>
+    <description>Recent content on Lelolabs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 04 Mar 2020 11:37:53 -0300</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Configurações iniciais e de segurança em um servidor Ubuntu 18.04</title>
+      <link>/blog/configuracao-ubuntu-server/</link>
+      <pubDate>Fri, 28 Feb 2020 15:43:28 -0300</pubDate>
+      
+      <guid>/blog/configuracao-ubuntu-server/</guid>
+      <description>Instalar um novo servidor requer alguns cuidados iniciais que devem ser tomados na questão de segurança e configurações de localização. Nesse tutorial vou passar alguns passos que realizo quando instalo um novo servidor com Ubuntu (a versão utilizada era a mais atual 18.04).
+Locales e timezone O primeiro passo é configurar os Locales e timezone para o novo servidor:
+dpkg-reconfigure localestimedatectl set-timezone America/Sao_Paulo O primeiro comando você tem a opção de instalar novos locales, e setar o padrão que deseja utilizar.</description>
+    </item>
+    
+    <item>
+      <title>Olá Mundo! Estou de casa nova.... (de novo)</title>
+      <link>/blog/casa-nova/</link>
+      <pubDate>Thu, 27 Feb 2020 16:10:34 -0300</pubDate>
+      
+      <guid>/blog/casa-nova/</guid>
+      <description>Olá Mundo! Estou de casa nova&amp;hellip; (de novo) Aproveitando uma atualização no servidor para a última versão do Ubuntu Server (18.04) decidi fazer algumas mudanças. Deixar isso aqui um pouco mais vivo. Blogar (alguém ainda usa esse termo) algum conteúdo que seja do meu interesse e que possa ajudar alguém que esteja fazendo as mesmas gambiarras que eu.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Wed, 04 Mar 2020 11:37:53 -0300</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Aurélio Carlos, cursando mestrado em Ciência da Computação pela UNESP, especialista em Redes de Computadores, formado em Ciência da Computação pela UNESP (também).
+Moro em Presidente Prudente, trabalho como Administrador de Redes na UNESP (cansei do “também”). Tenho interesse por desenvolvimento de aplicativos para iOS e volta e meia sai uns projetos de apps em férias ou quando estou inspirado.
+Casado e pai de dois moleques, mas pensa nuns moleques gente boa, são eles.</description>
+    </item>
+    
+  </channel>
+</rss>
