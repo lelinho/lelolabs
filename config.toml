@@ -1,24 +1,68 @@
 baseURL = "/"
 languageCode = "pt-br"
 title = "Lelolabs"
-theme = "kube"
+theme = "anatole"
 description = "Redes, Linux, Servidores, Automação, Xcode, iOS, macOS"
 Paginate = 4
-[Params]
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+# Syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+
+[params]
+  title = "Aurélio Carlos"
   RSSLink = "/index.xml"
-  author = "Aurélio Carlos" # add your company name
-  github = "lelinho" # add your github profile name
-  twitter = "lelinhoprado" # add your twitter profile
+  author = "Aurélio Carlos"
+  favicon = "img/lelolabs.png"
+
+  #github = "lelinho" # add your github profile name
+  #twitter = "lelinhoprado" # add your twitter profile
   email = "aureliocarlosps@gmail.com"
+
+  description = "(lelinhoprado)"
+  profilePicture = "img/profile_pic.JPG"
+
+  doNotLoadAnimations = false
+
+  googleAnalytics = "UA-544669-19"
+  gtagId = "G-265999878"
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/aurelio-c-a9621b1b9/"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/lelinho"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/lelinhoprado"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:aureliocarlosps@gmail.com"
+
 
 [[menu.main]]
     name = "Projetos"
     weight = -100
-    url = "/"
+    url = "/projetos/"
 [[menu.main]]
     name = "Blog"
     weight = -100
-    url = "/blog/"
+    url = "/"
 [[menu.main]]
     name = "Sobre"
     weight = -100

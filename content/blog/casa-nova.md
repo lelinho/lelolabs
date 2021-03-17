@@ -9,4 +9,5 @@ draft = false
 
 # Olá Mundo! Estou de casa nova... (de novo)
 
-Aproveitando uma atualização no servidor para a última versão do Ubuntu Server (18.04) decidi fazer algumas mudanças. Deixar isso aqui um pouco mais vivo. Blogar (alguém ainda usa esse termo) algum conteúdo que seja do meu interesse e que possa ajudar alguém que esteja fazendo as mesmas gambiarras que eu. 
+Cada migração é um aprendizado. E dessa vez não poderia ser diferente, o blog foi migrado de Wordpress pra Hugo e hospedado em um bucket S3 da Amazon.
+Prometo um blog com os detalhes e um tutorial dessa migração.
