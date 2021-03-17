@@ -1,0 +1,4 @@
+- name: Hugo S3
+  # You may pin to the exact commit or the version.
+  # uses: plopcas/hugo-s3-action@1c4cede6baf90aecf5d595d917327d7b200e1222
+  uses: plopcas/hugo-s3-action@v1.4.0
