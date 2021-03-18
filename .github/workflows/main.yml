@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Check out master
         uses: actions/checkout@master
+        with:
+          submodules: recursive
           
       - name: Deploy site
         uses: plopcas/hugo-s3-action@v1.4.0
