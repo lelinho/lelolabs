@@ -26,11 +26,8 @@ pygmentsCodefencesGuessSyntax = true
 
   description = "(lelinhoprado)"
   profilePicture = "img/profile_pic.JPG"
-
   doNotLoadAnimations = false
-
-  googleAnalytics = "UA-544669-19"
-  gtagId = "G-265999878"
+  gtagId = "G-B6RGXS41JS"
 
 ## Social links
 # use 'fab' when brand icons, use 'fas' when standard solid icons.
