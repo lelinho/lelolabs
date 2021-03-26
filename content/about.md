@@ -11,3 +11,14 @@ Moro em Presidente Prudente, trabalho como Administrador de Redes na UNESP. Atua
 Vou colocar nesse site algum conteúdo que me interesse. De tudo um pouco, artigos, coisas que pesquiso no mestrado, configuração de serviços, servidores, que uso no trabalho. Um pouco de programação, configuração de sistemas que uso no dia-a-dia.
 
 Fica assim e volte sempre!
+
+
+---
+
+
+### Press:
+- [Tecnoblog - cTwittLike: como outros usuários veem o Twitter?](https://www1.tecnoblog.net/2009/ctwittlike-como-outros-usuarios-veem-o-twitter/ "Tecnoblog - cTwittLike: como outros usuários veem o Twitter?")
+
+- [Mashable - HOW TO: See Twitter Like Someone Else](https://mashable.com/2009/08/18/ctwitterlike/ "Mashable - HOW TO: See Twitter Like Someone Else")
+
+- [Engadget - View someone else's own Twitter timeline with cTwittLike](https://www.engadget.com/2014-10-08-view-someone-elses-own-twitter-timeline-with-ctwittlike.html "Mashable - HOW TO: See Twitter Like Someone Else")
