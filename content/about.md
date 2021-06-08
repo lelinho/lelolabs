@@ -10,7 +10,7 @@ Moro em Presidente Prudente, trabalho como Administrador de Redes na UNESP. Atua
 
 Vou colocar nesse site algum conteúdo que me interesse. De tudo um pouco, artigos, coisas que pesquiso no mestrado, configuração de serviços, servidores, que uso no trabalho. Um pouco de programação, configuração de sistemas que uso no dia-a-dia.
 
-Fica assim e volte sempre!
+Fica assim e volte sempre...
 
 
 ---
