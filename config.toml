@@ -54,7 +54,7 @@ url = "mailto:aureliocarlosps@gmail.com"
 
 [[menu.main]]
     name = "Projetos"
-    weight = -100
+    weight = -99
     url = "/projetos/"
 [[menu.main]]
     name = "Blog"
@@ -62,9 +62,12 @@ url = "mailto:aureliocarlosps@gmail.com"
     url = "/"
 [[menu.main]]
     name = "Sobre"
-    weight = -100
+    weight = -98
     url = "/about/"
-
+[[menu.main]]
+    name = "Currículo"
+    weight = -97
+    url = "https://github.com/lelinho/curriculo_Aurelio/releases/download/v0.0-rolling/curriculo.pdf"
 
 [deployment]
 [[deployment.targets]]
