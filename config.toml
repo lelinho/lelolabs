@@ -79,4 +79,4 @@ name = "lelolabs"
 URL = "s3://lelolabs.com?region=us-east-2"
 
 # If you are using a CloudFront CDN, deploy will invalidate the cache as needed.
-cloudFrontDistributionID = "E2QY4CCY3ZA35M"
+cloudFrontDistributionID = "E1SJ1LU1L0IICT"
