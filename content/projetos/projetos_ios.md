@@ -6,6 +6,8 @@ draft: false
 
 Projetos desenvolvidos para iOS (iPhone e iPad) utilizando a linguagem Swift. Distribuídos pela Apple App Store e que durante algum tempo deram um retorno razoável. O que mais valeu foi o aprendizado e a experiência de um contato direto com os usuários, solicitando novas funções, reportando bugs.
 
+&nbsp;
+&nbsp;
 
 {{< figure src="/img/ctwittlike.jpg" alt="ctwittlike" width="120" class="left" >}}
 ## cTwittLike
