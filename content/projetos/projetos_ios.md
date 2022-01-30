@@ -6,15 +6,22 @@ draft: false
 
 Projetos desenvolvidos para iOS (iPhone e iPad) utilizando a linguagem Swift. Distribuídos pela Apple App Store e que durante algum tempo deram um retorno razoável. O que mais valeu foi o aprendizado e a experiência de um contato direto com os usuários, solicitando novas funções, reportando bugs.
 
+
 {{< figure src="/img/ctwittlike.jpg" alt="ctwittlike" width="120" class="left" >}}
 ## cTwittLike
 Veja o Twitter como outro usuário. App para iOS abandonado feito com base no site criado lá pra 2009 por mim, que tinha essa função. Chegou a sair no Mashable e Tecnoblog até.
 
 
-{{< figure src="/img/reminderwidget.png" alt="reminderwidget" width="120" class="right">}}
+&nbsp;
+&nbsp;
+
+{{< figure src="/img/reminderwidget.png" alt="reminderwidget" width="120" class="left">}}
 ## Reminder Widget
 App criado para suprir a falta de um widget decente para o iOS que tivesse os reminders do Evernote. Algumas pessoas usam até hoje.
 
+
+&nbsp;
+&nbsp;
 
 {{< figure src="/img/logo_ganhei_png.png" alt="ganhei" width="120" class="left">}}
 ## Ganhei?
