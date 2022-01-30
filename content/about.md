@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Sobre"
 date: 2020-03-04T11:37:53-03:00
 draft: false
 ---
@@ -14,7 +14,19 @@ Fica assim e volte sempre...
 
 
 ---
+### [Currículo](https://github.com/lelinho/curriculo_Aurelio/releases/download/v0.0-rolling/curriculo.pdf "Download do currículo PT/BR")
 
+
+---
+### Certificações:
+
+|   |  |
+| ----- | --- |
+| {{< figure src="/img/OCI.png" alt="Oracle Cloud Infrastructure Foundations Associate" width="150" >}} | [Oracle Cloud Infrastructure Foundations Associate - 2022](https://catalog-education.oracle.com/pls/certview/sharebadge?id=5E7E571B7174371823CECF6A6429EF1BD5D4457754032FE2D614BE5253ECD5E0)  |
+| {{< figure src="/img/gitlab_certified.png" alt="Certificação GitLab" width="150">}} | [GitLab Certified Associate - 2021](https://gitlab.badgr.com/public/assertions/cdq63kP2RJauvRGGyHYWlA?identity__email=lelinhoprado@gmail.com) |
+
+
+---
 
 ### Press:
 - [Tecnoblog - cTwittLike: como outros usuários veem o Twitter?](https://www1.tecnoblog.net/2009/ctwittlike-como-outros-usuarios-veem-o-twitter/ "Tecnoblog - cTwittLike: como outros usuários veem o Twitter?")
