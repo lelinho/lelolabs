@@ -18,7 +18,7 @@ jobs:
           submodules: recursive
           
       - name: Deploy site
-        uses: lelinho/hugo-s3-action@v1.0.5
+        uses: lelinho/hugo-s3-action@1.0.5
         env:
           AWS_REGION: 'us-east-2'
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
