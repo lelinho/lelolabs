@@ -24,7 +24,7 @@ Fica assim e volte sempre...
 | ----- | --- |
 | {{< figure src="/img/OCI.png" alt="Oracle Cloud Infrastructure Foundations Associate" width="150" >}} | [Oracle Cloud Infrastructure Foundations Associate - 2022](https://catalog-education.oracle.com/pls/certview/sharebadge?id=5E7E571B7174371823CECF6A6429EF1BD5D4457754032FE2D614BE5253ECD5E0)  |
 | {{< figure src="/img/gitlab_certified.png" alt="Certificação GitLab" width="150">}} | [GitLab Certified Associate - 2021](https://gitlab.badgr.com/public/assertions/cdq63kP2RJauvRGGyHYWlA?identity__email=lelinhoprado@gmail.com) |
-
+| {{< figure src="/img/descomplicando_kubernetes.png" alt="Descomplicando Kubernetes" width="150">}} | [Descomplicando Kubernetes - 2022](https://www.credential.net/ee5eec86-9991-485d-8304-13b000c6a2ee#gs.2rdx52) |
 
 ---
 

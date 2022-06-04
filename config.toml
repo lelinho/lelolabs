@@ -51,6 +51,8 @@ icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:aureliocarlosps@gmail.com"
 
+# Menu
+[menu]
 
 [[menu.main]]
     name = "Projetos"
