@@ -61,7 +61,7 @@ url = "mailto:aureliocarlosps@gmail.com"
 [[menu.main]]
     name = "Blog"
     weight = -100
-    url = "/"
+    url = "/blog"
 [[menu.main]]
     name = "Sobre"
     weight = -98
