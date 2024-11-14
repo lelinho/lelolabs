@@ -6,11 +6,13 @@ draft: false
 
 Aurélio Carlos, mestre em Ciência da Computação pela UNESP, especialista em Redes de Computadores e bacharel em Ciência da Computação pela UNESP.
 
-Moro em Presidente Prudente, trabalho como Administrador de Redes e Infraestrutura na UNESP. Atualmente pesquisando (mergulhando de cabeça em) contêineres, microsserviços, cloud e DevOps. Também tenho interesse por desenvolvimento de aplicativos iOS e volta e meia sai uns projetos paralelos de férias ou quando a inspiração bate.
+Atualmente, moro em Presidente Prudente e trabalho como Analista DevOps e SRE, focado em automação, observabilidade e administração de sistemas complexos em ambientes cloud e on-premises. Estou sempre explorando novas tecnologias, de Kubernetes e microsserviços a práticas de CI/CD e Infrastructure as Code (IaC).
 
-Vou colocar nesse site algum conteúdo que me interesse. De tudo um pouco, artigos, coisas que pesquiso no mestrado, configuração de serviços, servidores, que uso no trabalho. Um pouco de programação, configuração de sistemas que uso no dia-a-dia.
+Nos meus dias, além de garantir a estabilidade e desempenho dos sistemas, tenho contribuído para a cultura DevOps em diferentes equipes e automatizado processos que facilitam o dia a dia dos times de desenvolvimento.
 
-Fica assim e volte sempre...
+Ainda tenho interesse por desenvolvimento de aplicativos iOS e, quando sobra tempo, surgem alguns projetos paralelos - seja para um desafio técnico ou diversão.
+
+Aqui no blog, pretendo compartilhar um pouco do meu cotidiano profissional, artigos sobre as tecnologias que uso, configurações de sistemas, dicas de programação, e qualquer outra coisa que achar interessante. Fique à vontade para explorar e volte sempre!
 
 
 ---
