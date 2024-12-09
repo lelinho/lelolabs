@@ -1,5 +1,5 @@
 +++
-title = "Observabilidade como código - Datadog"
+title = "Observabilidade como Código: Criando monitores do Datadog por código com Terraform"
 description = ""
 date = 2024-12-09T18:31:15-03:00
 weight = 20
