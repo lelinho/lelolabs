@@ -16,6 +16,8 @@ Neste artigo, exploro como essa abordagem funciona na prática, usando Terraform
 
 Porque, no final das contas, monitoramento não é só sobre alertas. É sobre confiança: saber que sua infraestrutura está sob controle — e que você também está.
 
+{{< figure src="/img/observabilidade-codigo.png" alt="observabilidade-codigo" width="800" class="center" >}}
+
 
 ---
 
