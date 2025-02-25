@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projetos on Lelolabs</title>
+    <link>/projetos/</link>
+    <description>Recent content in Projetos on Lelolabs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 17 Mar 2021 16:41:12 -0300</lastBuildDate><atom:link href="/projetos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Infraestrutura e Operações</title>
+      <link>/projetos/infra_operacoes/</link>
+      <pubDate>Wed, 17 Mar 2021 16:41:12 -0300</pubDate>
+      
+      <guid>/projetos/infra_operacoes/</guid>
+      <description>Nesta seção, compartilho alguns dos projetos e atividades que desenvolvi ao longo dos anos, lidando com infraestrutura de TI, automação de processos e operações DevOps.</description>
+    </item>
+    
+    <item>
+      <title>Projetos iOS</title>
+      <link>/projetos/projetos_ios/</link>
+      <pubDate>Wed, 17 Mar 2021 16:10:51 -0300</pubDate>
+      
+      <guid>/projetos/projetos_ios/</guid>
+      <description>Projetos desenvolvidos para iOS (iPhone e iPad) utilizando a linguagem Swift.</description>
+    </item>
+    
+  </channel>
+</rss>

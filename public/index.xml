@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lelolabs</title>
+    <link>/</link>
+    <description>Recent content on Lelolabs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 09 Dec 2024 18:31:15 -0300</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Observabilidade como Código: Criando monitores do Datadog por código com Terraform</title>
+      <link>/blog/observabilidade-codigo-datadog/</link>
+      <pubDate>Mon, 09 Dec 2024 18:31:15 -0300</pubDate>
+      
+      <guid>/blog/observabilidade-codigo-datadog/</guid>
+      <description>No nosso papel como profissionais de DevOps e SRE, estamos constantemente criando soluções para automatizar tarefas e otimizar o trabalho dos outros.</description>
+    </item>
+    
+    <item>
+      <title> Cloud &#43; DevOps para o blog</title>
+      <link>/blog/aws_hugo_cloudfront_github/</link>
+      <pubDate>Mon, 22 Mar 2021 16:24:27 -0300</pubDate>
+      
+      <guid>/blog/aws_hugo_cloudfront_github/</guid>
+      <description>Este artigo tem como objetivo descrever os passos para a publicação deste blog utilizando diversos serviços da AWS e algumas técnicas de entrega contínua.</description>
+    </item>
+    
+    <item>
+      <title>O dia em que um aplicativo meu apareceu em um evento da Apple</title>
+      <link>/blog/ctwittlike-evento-apple/</link>
+      <pubDate>Fri, 19 Feb 2021 14:53:35 -0300</pubDate>
+      
+      <guid>/blog/ctwittlike-evento-apple/</guid>
+      <description>Alguns anos atrás, tive uma surpresa incrível: um app que eu desenvolvi teve uma aparição em um evento da Apple!</description>
+    </item>
+    
+    <item>
+      <title>Configurações iniciais e de segurança em um servidor Ubuntu 18.04</title>
+      <link>/blog/configuracao-ubuntu-server/</link>
+      <pubDate>Fri, 28 Feb 2020 15:43:28 -0300</pubDate>
+      
+      <guid>/blog/configuracao-ubuntu-server/</guid>
+      <description>Instalar um novo servidor requer alguns cuidados iniciais que devem ser tomados na questão de segurança e configurações de localização.</description>
+    </item>
+    
+    <item>
+      <title>Olá Mundo! Estou de casa nova.... (de novo)</title>
+      <link>/blog/casa-nova/</link>
+      <pubDate>Thu, 27 Feb 2020 16:10:34 -0300</pubDate>
+      
+      <guid>/blog/casa-nova/</guid>
+      <description>Cada migração é um aprendizado. E dessa vez não poderia ser diferente, o blog foi migrado de Wordpress pra Hugo e hospedado em um bucket S3 da Amazon.</description>
+    </item>
+    
+    <item>
+      <title>Infraestrutura e Operações</title>
+      <link>/projetos/infra_operacoes/</link>
+      <pubDate>Wed, 17 Mar 2021 16:41:12 -0300</pubDate>
+      
+      <guid>/projetos/infra_operacoes/</guid>
+      <description>Nesta seção, compartilho alguns dos projetos e atividades que desenvolvi ao longo dos anos, lidando com infraestrutura de TI, automação de processos e operações DevOps.</description>
+    </item>
+    
+    <item>
+      <title>Projetos iOS</title>
+      <link>/projetos/projetos_ios/</link>
+      <pubDate>Wed, 17 Mar 2021 16:10:51 -0300</pubDate>
+      
+      <guid>/projetos/projetos_ios/</guid>
+      <description>Projetos desenvolvidos para iOS (iPhone e iPad) utilizando a linguagem Swift.</description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>/about/</link>
+      <pubDate>Wed, 04 Mar 2020 11:37:53 -0300</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Aurélio Carlos, mestre em Ciência da Computação pela UNESP, especialista em Redes de Computadores e bacharel em Ciência da Computação pela UNESP.</description>
+    </item>
+    
+  </channel>
+</rss>
